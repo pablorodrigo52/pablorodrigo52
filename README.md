@@ -24,7 +24,7 @@ And here, some stacks that i have, an... some knowledge:
 <br>
 <br>
 
-Come exchange ideas with me: 
+Contact-me anytime: <br>
 <a href="https://www.linkedin.com/in/pablo-rodrigo-810414151/" alt="LinkedIn" target="_blank">
 	<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
