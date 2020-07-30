@@ -25,7 +25,7 @@ And here, some stacks that i have, an... some knowledge:
 <br>
 
 Come exchange ideas with me: 
-<a href="https://www.linkedin.com/in/pablo-rodrigo-810414151/" alt="LinkedIn">
+<a target="_blank" href="https://www.linkedin.com/in/pablo-rodrigo-810414151/" alt="LinkedIn">
 	<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
 <a href="mailto:pablorodrigo552@gmail.com" alt="Gmail">
