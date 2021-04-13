@@ -2,7 +2,7 @@
 
 Hello person that I probably don't know who it is, I'm Pablo.
 
-I'm a front-end developer _(most of my 24 hours)_ and back-end developer _(without the rest of the time)_. Here some of my stacks:
+I'm a front-end developer _(half of my 24 hours)_ and back-end developer _(another half)_. Here some of my stacks:
 <p align="center">
 	<img src="https://github.com/pablorodrigo52/pablorodrigo52/blob/master/assets/html5.svg" width="48"/>
 	<img src="https://github.com/pablorodrigo52/pablorodrigo52/blob/master/assets/css3.svg" width="48"/>
